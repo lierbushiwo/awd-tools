@@ -1,0 +1,2 @@
+1760686823 127.0.0.1:10001 flag{welcome_to_lier_s_environment}
+
